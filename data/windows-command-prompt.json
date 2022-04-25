@@ -98,6 +98,10 @@
                     "definition": "উইন্ডোজ শাট্‌ডাউন করতে",
                     "code": "shutdown /s"
                 },
+                      {
+                    "definition": "উইন্ডোজ নির্দিষ্ট সময় পর শাট্‌ডাউন করতে",
+                    "code": "shutdown /s /t xxx [xxx হল কত সেকেন্ড পর (মিনিট কে ৬০ দিয়ে গুন)]"
+                },
                 {
                     "definition": "উইন্ডোজ রিস্টার্ট করতে",
                     "code": "shutdown /r"
